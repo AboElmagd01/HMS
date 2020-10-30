@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/HMS.dir/main.cpp.o  -o HMS.exe -Wl,--out-implib,libHMS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

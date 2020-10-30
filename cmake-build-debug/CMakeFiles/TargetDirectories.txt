@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Abdelrhman/CLionProjects/HMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Abdelrhman/CLionProjects/HMS/cmake-build-debug/CMakeFiles/HMS.dir
+/cygdrive/c/Users/Abdelrhman/CLionProjects/HMS/cmake-build-debug/CMakeFiles/edit_cache.dir
